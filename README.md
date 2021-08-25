@@ -5,6 +5,6 @@
 - 📫 How to reach me 9833129075
 
 <!---
-Shivi3008/Shivi3008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shivi3008/IDMA-PT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
